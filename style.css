@@ -1,3 +1,19 @@
+body{
+    color: #000000;
+    background-color: aquamarine;
+    margin: 0px;
+    font-family: "Pacifico", cursive;
+     margin-bottom: 100px;
+}
+header{
+    border-bottom:solid 3px black ;
+    padding: 20px;
+    font-size: 32px;
+    color:black;
+}
+
+
+
 .chamada{
 background: palevioletred;
 margin-top: 80px;
